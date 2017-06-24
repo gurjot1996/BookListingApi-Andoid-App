@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Api Book Listing App</string>
+    <string name="instructions">Enter Keywords to search for a Book</string>
+</resources>
